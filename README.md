@@ -1,0 +1,1 @@
+"#Minkowski-Pearson-Coefficient" 
